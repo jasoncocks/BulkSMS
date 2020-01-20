@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSMS", "BulkSMS\BulkSMS.csproj", "{48A5A768-A0B4-4C60-8E05-FFD1A377BCB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSMSCMD", "BulkSMSCMD\BulkSMSCMD.csproj", "{17C20381-3822-464D-9BF3-27F333E0F1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BULKSMSGUI", "BULKSMSGUI\BULKSMSGUI.csproj", "{5EE1C947-D7DF-4398-8DA5-3E175A10B03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A5A768-A0B4-4C60-8E05-FFD1A377BCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A5A768-A0B4-4C60-8E05-FFD1A377BCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A5A768-A0B4-4C60-8E05-FFD1A377BCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A5A768-A0B4-4C60-8E05-FFD1A377BCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C20381-3822-464D-9BF3-27F333E0F1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C20381-3822-464D-9BF3-27F333E0F1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C20381-3822-464D-9BF3-27F333E0F1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C20381-3822-464D-9BF3-27F333E0F1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE1C947-D7DF-4398-8DA5-3E175A10B03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE1C947-D7DF-4398-8DA5-3E175A10B03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE1C947-D7DF-4398-8DA5-3E175A10B03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE1C947-D7DF-4398-8DA5-3E175A10B03C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663FF56D-592B-4343-A2BA-C25FB49FEED9}
+	EndGlobalSection
+EndGlobal
